@@ -1,1 +1,2 @@
 Tim hieu ve git
+Thay doi git lan 1 (Sau commit làn 1)
